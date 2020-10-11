@@ -5,7 +5,7 @@ int main()
 {
    int a,b;
    a=1;
-   printf("KARENÝN BÝR KENARÝNÝ GÝRÝN:");
+   printf("Karenin bir kenarini girin:");
    scanf("%d",&b);
    while(a<=b){
     printf("*\n\t");
