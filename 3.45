@@ -4,7 +4,7 @@
 int main()
 {
     float x,y,z;
-    printf("uckenin kenarlarını girin:");
+    printf("uckenin kenarlarÄ±nÄ± girin:");
     scanf("%f%f%f",&x,&y,&z);
 
     if(x*x==(y*y)+(z*z)|| y*y==x*x+z*z || z*z==x*x+y*y)
